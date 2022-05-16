@@ -3,7 +3,7 @@
 1. requirement---
 2. download Django
 3. download pillow
-4. 
+4. then run
 
 
 ![Screenshot (131)](https://user-images.githubusercontent.com/92147303/168672927-31a1d05c-5ac3-4c0e-985e-2b32982d31a2.png)
