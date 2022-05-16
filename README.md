@@ -1,4 +1,12 @@
-# LoginSession-Page![Screenshot (131)](https://user-images.githubusercontent.com/92147303/168672927-31a1d05c-5ac3-4c0e-985e-2b32982d31a2.png)
+# LoginSession-Page
+
+1. requirement---
+2. download Django
+3. download pillow
+4. 
+
+
+![Screenshot (131)](https://user-images.githubusercontent.com/92147303/168672927-31a1d05c-5ac3-4c0e-985e-2b32982d31a2.png)
 ![IMG_20220517_011016](https://user-images.githubusercontent.com/92147303/168672958-a6f935af-4fa2-4875-b453-0d5fd24731e6.jpg)
 ![IMG_20220517_011101](https://user-images.githubusercontent.com/92147303/168672972-510457d6-af8c-4e89-b643-cbbc7fd0895d.jpg)
 ![IMG_20220517_011138](https://user-images.githubusercontent.com/92147303/168672979-7b54cc5d-aad9-41a7-b174-4b36572c9b65.jpg)
